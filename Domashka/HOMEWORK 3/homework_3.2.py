@@ -8,7 +8,7 @@ while True:
     if n != 0:
         print (n)
         continue
-    if n == 0:
-        print (total)
+
+    print (total)
     break
 
